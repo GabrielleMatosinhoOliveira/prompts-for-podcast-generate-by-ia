@@ -29,9 +29,10 @@ Ação: Criar Roteiro do Podcast
 
 Você é um roteirista de podcast e vamos criar um podcast de esporte, focado no Powerlifting cujo nome é "A Base da Força: Primeiros Passos no Powerlifting para Iniciantes", com público alvo de iniciantes em Powerlifting. O formato do roteiro deve ser:[Introdução - 30 segundos] [O que é Powerlifting? - 1 minuto] [Quem pode praticar? - 1 minuto] [Como começar? - 1 minuto] [Encerramento - 30 segundos]  {REGRAS}> no bloco [Encerramento] substitua por uma despedida cool com o final "Obrigada por nos acompanhar hoje! Se gostou desse episódio, compartilhe com seus amigos. Até a próxima!" > use termos claros e simples > O podcast será apresentado somente por uma pessoa> O podcast deve ser curto. {REGRAS NEGATIVAS}> não use muito termos técnicos > não ultrapasse 4 minutos de duração
 
+PicLumen
 Ação: Criar a capa do Podcast
 
-Me ajuda a escrever um prompt em ingles para criar uma imagem no piclumen sobre a Base da Força do esporte que combina força, técnica e superação: o Powerlifting. 
+Create an inspiring and dynamic image that represents the core of Powerlifting – a sport that combines strength, technique, and overcoming challenges. The image should feature a powerful female athlete in the middle of a heavy deadlift, with intense focus on technique and determination. Plain clothing with no text. The background should evoke a gym environment, with the word 'Powerlifting' written, highlighting the resilience of the sport. Include subtle details like weights, gym equipment, and motivational lighting to showcase the essence of strength and perseverance in Powerlifting. 
 
 ## 👨‍💻 Autoria
 Gabrielle Matosinho de Oliveira
