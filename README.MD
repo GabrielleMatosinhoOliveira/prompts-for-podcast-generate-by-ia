@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="blob:https://web.whatsapp.com/dd46e75d-e11b-4a7d-98f7-381b12ed3de7"
+    src="Create an inspiring and dynamic image that represents the core of Powerlifting – a sport that combines strength, technique, and overcoming challenges. The image should feature a powerful female athlete in the middle of a heavy deadlift, with intense focus on technique and determination. Plain clothing with no text. The background should evoke a gym environment, with the word 'Powerlifting' written, highlighting the resilience of the sport. Include subtle details like weights, gym equipment, and motivational lighting to showcase the essence of strength and perseverance in Powerlifting. --piclumen -rs 1024:1024 -np "" -g "1" -s "6" -bs "1" -e "96537455858" -st "create" -mn "PicLumen Art V1""
     width="300"
 />
 </p>
