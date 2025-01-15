@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="piclumen.com/app/image-generator/share?promptId=00004137254253518602d1112af6549b&imageName=normal/20250115/11/bafe5ce2716a48d58d2e44993f712170.webp&gId=Z2FicmllbGxlLm1hdG9zaW5ob0BnbWFpbC5jb20="
+    src="blob:https://web.whatsapp.com/dd46e75d-e11b-4a7d-98f7-381b12ed3de7"
     width="300"
 />
 </p>
