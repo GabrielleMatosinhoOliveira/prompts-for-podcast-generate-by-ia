@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="//images.piclumen.com/normal/20250115/11/bafe5ce2716a48d58d2e44993f712170.webp/>
+    src="https://images.piclumen.com/normal/20250115/11/bafe5ce2716a48d58d2e44993f712170.webp
 </p>
 
 <div align="center">
