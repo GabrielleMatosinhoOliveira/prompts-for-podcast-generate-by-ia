@@ -1,25 +1,8 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="piclumen.com/app/image-generator/share?promptId=00004137254253518602d1112af6549b&imageName=normal/20250115/11/bafe5ce2716a48d58d2e44993f712170.webp&gId=Z2FicmllbGxlLm1hdG9zaW5ob0BnbWFpbC5jb20="
     width="300"
 />
-</p>
-
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
 </p>
 
 <div align="center">
