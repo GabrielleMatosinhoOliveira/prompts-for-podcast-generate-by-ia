@@ -1,13 +1,13 @@
 <p align="center">
 <img 
-    src="https://images.piclumen.com/normal/20250115/11/bafe5ce2716a48d58d2e44993f712170.webp/>
+    src="//images.piclumen.com/normal/20250115/11/bafe5ce2716a48d58d2e44993f712170.webp/>
 </p>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Podcast A Base da Força: Primeiros Passos no Powerliftng para Iniciantes
+# Podcast A Base da Força: Primeiros Passos no Powerlifting para Iniciantes
 
 Um podcast criado com auxilio de Inteligencia Artificial, falando sobre um eporte que combina força, técnica e superação: o Powerlifting. 
 
