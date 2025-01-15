@@ -28,43 +28,30 @@
 
 # Projeto Podcast Gerado por I.A.s
 
+Podcast A Base da Força: Primeiros Passos no Powerliftng para Iniciantes
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
-
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Um podcast criado com auxilio de Inteligencia Artificial, falando sobre um eporte que combina força, técnica e superação: o Powerlifting. 
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [ChatGPT](https://chat.openai.com/) para geração do conteúdo.
+- [PicLumen](https://piclumen.com/app/) para geração da imagem de capa.
+- [ElevenLabs](https://beta.elevenlabs.io/) para Text-To-Speech
+- [Capcut](https://www.capcut.com/pt-br/) para edição do aúdio e adicionar sons de fundo
 
-## ✨ Como foi feito ?
+## 🛠️ Prompts utilizados 
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+ChatGPT
+Ação: Criar Título do Podcast 	
 
-## 📚 Materiais
+Promtp: Você é um roteirista de podcast, e vamos criar um podcast de esporte, focado no Powerlifting e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos para um podcast de Powerlifting para iniciantes, e que tenha algum trocadilho de esporte no nome. O podcast vai falar sobre dicas e como iniciar no Powerlifting como hobby ou para competir. {REGRAS} >O nome deve ser enxuto, um nome e um subtítulo >O nome deve conter alguma palavra forte que remeta a Powerlifting
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+Ação: Criar Roteiro do Podcast
 
+Você é um roteirista de podcast e vamos criar um podcast de esporte, focado no Powerlifting cujo nome é "A Base da Força: Primeiros Passos no Powerlifting para Iniciantes", com público alvo de iniciantes em Powerlifting. O formato do roteiro deve ser:[Introdução - 30 segundos] [O que é Powerlifting? - 1 minuto] [Quem pode praticar? - 1 minuto] [Como começar? - 1 minuto] [Encerramento - 30 segundos]  {REGRAS}> no bloco [Encerramento] substitua por uma despedida cool com o final "Obrigada por nos acompanhar hoje! Se gostou desse episódio, compartilhe com seus amigos. Até a próxima!" > use termos claros e simples > O podcast será apresentado somente por uma pessoa> O podcast deve ser curto. {REGRAS NEGATIVAS}> não use muito termos técnicos > não ultrapasse 4 minutos de duração
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
-## 👨‍💻 Expert
+## 👨‍💻 Autoria
+Gabrielle Matosinho de Oliveira
 
 <p>
     <img 
