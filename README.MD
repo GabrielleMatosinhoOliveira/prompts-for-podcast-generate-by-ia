@@ -1,17 +1,13 @@
 <p align="center">
 <img 
-    src="Create an inspiring and dynamic image that represents the core of Powerlifting – a sport that combines strength, technique, and overcoming challenges. The image should feature a powerful female athlete in the middle of a heavy deadlift, with intense focus on technique and determination. Plain clothing with no text. The background should evoke a gym environment, with the word 'Powerlifting' written, highlighting the resilience of the sport. Include subtle details like weights, gym equipment, and motivational lighting to showcase the essence of strength and perseverance in Powerlifting. --piclumen -rs 1024:1024 -np "" -g "1" -s "6" -bs "1" -e "96537455858" -st "create" -mn "PicLumen Art V1""
-    width="300"
-/>
+    src="https://images.piclumen.com/normal/20250115/11/bafe5ce2716a48d58d2e44993f712170.webp/>
 </p>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-# Projeto Podcast Gerado por I.A.s
-
-Podcast A Base da Força: Primeiros Passos no Powerliftng para Iniciantes
+# Podcast A Base da Força: Primeiros Passos no Powerliftng para Iniciantes
 
 Um podcast criado com auxilio de Inteligencia Artificial, falando sobre um eporte que combina força, técnica e superação: o Powerlifting. 
 
