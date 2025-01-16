@@ -18,7 +18,7 @@ Um podcast criado com auxilio de Inteligencia Artificial, falando sobre um eport
 - [PicLumen](https://piclumen.com/app/) para geração da imagem de capa.
 - [ElevenLabs](https://beta.elevenlabs.io/) para Text-To-Speech
 - [RoyaltyFreeMusicLibrary](https://royaltyfreemusiclibrary.com/) para download da musica de fundo
-- [HitPaw](https://online.hitpaw.com.br/add-music-to-audio-online.html) para adicionar a música no aúdio
+- [CapCut](https://www.capcut.com/my-edit) para unir a música de fundo ao aúdio do podcast
 
 ## 🛠️ Prompts utilizados 
 
