@@ -10,6 +10,7 @@
 # Podcast A Base da Força: Primeiros Passos no Powerlifting para Iniciantes
 
 Um podcast criado com auxilio de Inteligencia Artificial, falando sobre um eporte que combina força, técnica e superação: o Powerlifting. 
+                [Podcast](output/pod_final.mp3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
